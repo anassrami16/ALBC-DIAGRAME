@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T02:02:28.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="p4ThMmT-bZ44UkqNIruK" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T02:49:48.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="EXvUWtT5C9_dtjIr7wet" version="15.8.3" type="github">
   <diagram id="5xHGb2zvTO7i-tgx1IvV" name="Page-1">
     <mxGraphModel dx="1662" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,9 +20,9 @@
           <mxGeometry x="210" y="70" width="510" height="490" as="geometry" />
         </mxCell>
         <mxCell id="rq6krsdYeAWEVf3Au02w-3" value="Home Time Line" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="rq6krsdYeAWEVf3Au02w-2">
-          <mxGeometry x="185" y="10" width="100" height="20" as="geometry" />
+          <mxGeometry x="201" y="10" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rq6krsdYeAWEVf3Au02w-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Afficher les tweets de la chronologie d&#39;accueil&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rq6krsdYeAWEVf3Au02w-2">
+        <mxCell id="rq6krsdYeAWEVf3Au02w-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Afficher les tweets du comptes que je suis&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rq6krsdYeAWEVf3Au02w-2">
           <mxGeometry x="90" y="60" width="145" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rq6krsdYeAWEVf3Au02w-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Afficher les détails d&#39;u Tweet&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rq6krsdYeAWEVf3Au02w-2">
@@ -40,41 +40,83 @@
             <mxPoint x="350" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rq6krsdYeAWEVf3Au02w-17" target="rq6krsdYeAWEVf3Au02w-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rq6krsdYeAWEVf3Au02w-17" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="420" y="630" width="30" height="30" as="geometry" />
+          <mxGeometry x="420" y="570" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rq6krsdYeAWEVf3Au02w-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="rq6krsdYeAWEVf3Au02w-17" parent="1" target="rq6krsdYeAWEVf3Au02w-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="720" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rq6krsdYeAWEVf3Au02w-19" target="rq6krsdYeAWEVf3Au02w-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rq6krsdYeAWEVf3Au02w-19" value="check user session" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="375" y="710" width="120" height="40" as="geometry" />
+        <mxCell id="rq6krsdYeAWEVf3Au02w-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;vérifier la session utilisateur&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rq6krsdYeAWEVf3Au02w-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;" edge="1" source="rq6krsdYeAWEVf3Au02w-19" parent="1" target="rq6krsdYeAWEVf3Au02w-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="810" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-45" value="[online]" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rq6krsdYeAWEVf3Au02w-21" target="rq6krsdYeAWEVf3Au02w-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rq6krsdYeAWEVf3Au02w-21" target="rq6krsdYeAWEVf3Au02w-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rq6krsdYeAWEVf3Au02w-21" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="395" y="790" width="80" height="40" as="geometry" />
+          <mxGeometry x="395" y="700" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rq6krsdYeAWEVf3Au02w-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;" edge="1" source="rq6krsdYeAWEVf3Au02w-21" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="575" y="810" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-24" value="Affichage List des tweets Recent" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rq6krsdYeAWEVf3Au02w-23" value="[valid user session]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="rq6krsdYeAWEVf3Au02w-21" parent="1" target="rq6krsdYeAWEVf3Au02w-24">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="435" y="890" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rq6krsdYeAWEVf3Au02w-24" value="Affichage List des tweet Recent" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="375" y="890" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rq6krsdYeAWEVf3Au02w-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;" edge="1" source="rq6krsdYeAWEVf3Au02w-24" parent="1">
+        <mxCell id="rq6krsdYeAWEVf3Au02w-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="rq6krsdYeAWEVf3Au02w-24" parent="1" target="rq6krsdYeAWEVf3Au02w-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-26" value="selection d&#39;un tweet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1060" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="rq6krsdYeAWEVf3Au02w-26" parent="1" target="rq6krsdYeAWEVf3Au02w-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-28" value="Affichage des information du tweet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-29" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;" edge="1" source="rq6krsdYeAWEVf3Au02w-28" parent="1" target="rq6krsdYeAWEVf3Au02w-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-36" value="`[session valid]" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rq6krsdYeAWEVf3Au02w-31" target="rq6krsdYeAWEVf3Au02w-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rq6krsdYeAWEVf3Au02w-31" target="rq6krsdYeAWEVf3Au02w-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="890" />
+              <mxPoint x="550" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-31" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="395" y="870" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rq6krsdYeAWEVf3Au02w-39" target="rq6krsdYeAWEVf3Au02w-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-39" value="Verification connexion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="375" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-48" value="Afficher les tweets stocker dans le cache" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rq6krsdYeAWEVf3Au02w-49" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="rq6krsdYeAWEVf3Au02w-48" parent="1" target="rq6krsdYeAWEVf3Au02w-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="1265" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
