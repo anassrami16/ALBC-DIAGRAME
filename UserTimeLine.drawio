@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T02:29:05.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="SHVuIwWevaOk8CF05nF_" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T02:30:00.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="SQ4GoX25rSvfQ3KXZuj2" version="15.8.3" type="github">
   <diagram id="iY5-pHewiRnftGyiLozi" name="Page-1">
     <mxGraphModel dx="1662" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="njqI8tUHYhX_ZmFeckEF-3" value="User TimeLine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="njqI8tUHYhX_ZmFeckEF-1">
           <mxGeometry x="160" y="10" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="njqI8tUHYhX_ZmFeckEF-5" value="Afficher les tweets et&amp;nbsp; d&#39;un comple&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="njqI8tUHYhX_ZmFeckEF-1">
+        <mxCell id="njqI8tUHYhX_ZmFeckEF-5" value="Afficher les tweets&amp;nbsp; &amp;nbsp;d&#39;un comple&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="njqI8tUHYhX_ZmFeckEF-1">
           <mxGeometry x="20" y="50" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="njqI8tUHYhX_ZmFeckEF-6" value="Afficher les plus recent tweets" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="njqI8tUHYhX_ZmFeckEF-1">
@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="njqI8tUHYhX_ZmFeckEF-19" value="[valid user session]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;" edge="1" source="njqI8tUHYhX_ZmFeckEF-17" parent="1" target="njqI8tUHYhX_ZmFeckEF-20">
+        <mxCell id="njqI8tUHYhX_ZmFeckEF-19" value="[valid user session]" style="html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="njqI8tUHYhX_ZmFeckEF-17" parent="1" target="njqI8tUHYhX_ZmFeckEF-20">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="555" y="930" as="targetPoint" />
           </mxGeometry>
@@ -68,21 +68,21 @@
         <mxCell id="njqI8tUHYhX_ZmFeckEF-20" value="Affichage des tweet du compte sélectionné" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="490" y="910" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="njqI8tUHYhX_ZmFeckEF-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;" edge="1" source="njqI8tUHYhX_ZmFeckEF-20" parent="1" target="njqI8tUHYhX_ZmFeckEF-22">
+        <mxCell id="njqI8tUHYhX_ZmFeckEF-21" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="njqI8tUHYhX_ZmFeckEF-20" parent="1" target="njqI8tUHYhX_ZmFeckEF-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="555" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="njqI8tUHYhX_ZmFeckEF-22" value="selection d&#39;un tweet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="990" width="120" height="40" as="geometry" />
+          <mxGeometry x="492.5" y="990" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="njqI8tUHYhX_ZmFeckEF-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;" edge="1" source="njqI8tUHYhX_ZmFeckEF-22" parent="1" target="njqI8tUHYhX_ZmFeckEF-24">
+        <mxCell id="njqI8tUHYhX_ZmFeckEF-23" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="njqI8tUHYhX_ZmFeckEF-22" parent="1" target="njqI8tUHYhX_ZmFeckEF-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="555" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="njqI8tUHYhX_ZmFeckEF-24" value="Affichage des information du tweet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1070" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="1070" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="njqI8tUHYhX_ZmFeckEF-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;curved=1;" edge="1" source="njqI8tUHYhX_ZmFeckEF-24" parent="1" target="njqI8tUHYhX_ZmFeckEF-26">
           <mxGeometry relative="1" as="geometry">
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="njqI8tUHYhX_ZmFeckEF-26" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1155" width="30" height="30" as="geometry" />
+          <mxGeometry x="535" y="1155" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
